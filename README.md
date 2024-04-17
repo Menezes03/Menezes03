@@ -7,7 +7,7 @@ Front-End Developer
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [matheusmenezes0303@gmail.com](mailto:matheusmenezes0303@gmail.com)
 * 🧠  I'm learning Html, Css, JavaScript
-* 🤝  I'm open to collaborating on On front-end projects!
+* 🤝  I'm open to collaborating  on front-end projects!
 
 ### Skills
 
